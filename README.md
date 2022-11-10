@@ -1,3 +1,11 @@
+<pre>Made an aesthetic dashboard which enables users to view the following insights.  include a
+dropdown list so that users can change the director and respectively visualizations change.
+1. Make a Top Line containing:
+ a. Total no. of movies (number of records)
+ b. Average IMDB rating
+ c. Gross revenue
+ d. average duration</pre>
+
 # ACTOR_DIREC._VISUALIZATION-
 ![image](https://user-images.githubusercontent.com/109127584/201028387-a10cae04-54e5-4467-bb7a-b445cfa9f525.png)
 ### KPI
